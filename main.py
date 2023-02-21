@@ -142,6 +142,7 @@ while running:
                 y_en[j] = 2000
             game_over_text()
             continue_text()
+            score_val = 0
             cind = 1
             break
 
